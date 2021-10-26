@@ -25,3 +25,4 @@ This is repository for test and verification task №4
 - ![image](https://user-images.githubusercontent.com/70809274/138872841-1c86e0e2-89df-42d6-99fc-70bdd685d9d7.png)
 ![image](https://user-images.githubusercontent.com/70809274/138872947-aee5455e-7afd-4529-a2ff-16ce3cb2540f.png)
 ![image](https://user-images.githubusercontent.com/70809274/138872979-8aabd89c-8486-45f9-ae49-946d687ca20c.png)
+![image](https://user-images.githubusercontent.com/70809274/138873160-fb4d61ed-7f3e-4485-bd57-59b56c6687fe.png)
